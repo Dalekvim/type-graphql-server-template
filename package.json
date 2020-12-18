@@ -1,15 +1,21 @@
 {
-  "name": "cat-server",
+  "name": "type-graphql-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a minimal type-graphql server.",
   "main": "index.js",
   "scripts": {
     "watch": "tsc -w",
     "start": "nodemon dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "graphql",
+    "typescript",
+    "type-graphql",
+    "express",
+    "apollo-server"
+  ],
+  "author": "Dalekvim",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.9",
