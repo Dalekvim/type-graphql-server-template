@@ -1,2 +1,2 @@
-# type-graphql-server-template
-A minimal type-graphql server.
+# Type Graphql Server Template
+This is a minimal type-graphql server.
